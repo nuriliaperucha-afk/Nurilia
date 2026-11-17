@@ -1,0 +1,6 @@
+{
+  "name": "KemasKini — Platform Inovasi Produk Kuliner, Desain Kemasan & Pemasaran Digital UMKM Wonoayu",
+  "description": "Aplikasi web berbasis AI untuk inovasi resep fusion food, desain kemasan & logo otomatis, konten promosi, uji coba dapur, kurasi produk, dan dashboard monitoring UMKM Kecamatan Wonoayu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
